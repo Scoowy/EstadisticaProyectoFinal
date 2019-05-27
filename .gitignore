@@ -75,3 +75,4 @@ $RECYCLE.BIN/
 
 # Archivos cache de Excel
 ~$*.xlsx
+*-output.xlsx
